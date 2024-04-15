@@ -23,5 +23,4 @@ function ejercicio3(){
         let resultadoOperacion = eval(operacion);
         resultado.innerHTML = `<p>El resultado de ${number1} ${caracter} ${number2} es: ${resultadoOperacion}</p>`;
     }
-
 }
